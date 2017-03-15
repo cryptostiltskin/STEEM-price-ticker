@@ -15,5 +15,8 @@
    "name": "STEEM (STEEMIT) assets price ticker",
    "short_name": "STEEM (STEEMIT) ticker",
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.9.3"
+   "version": "0.9.4",
+    "permissions": [
+    "https://api.coinmarketcap.com/"
+  ]
 }
